@@ -1,5 +1,7 @@
 # Computer Vision Challenge
 
+This is a course project of Computer Vision in TUM. We implement an application with GUI based on MATLAB to visualize the changes between two or more satellite images of the same location. The detection of changes in the same location can be accomplished regardless of whether the images are rotated, the angle is switched or the brightness is different.
+
 ## Environmental requirements
 * MATLAB Version: 	MATLAB 2020 or newer
 * Required toolbox:	Computer Vision Toolbox
